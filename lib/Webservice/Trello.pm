@@ -5,15 +5,15 @@ use strict;
 
 =head1 NAME
 
-Webservice::Trello - Client Class for accessing Asana API!
+Webservice::Trello - Client Class for accessing Trello API!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -22,9 +22,9 @@ our $VERSION = '0.01';
 
 =head1 DESCRIPTION
 
-This library implements the L<http://trello.com/api Trello API>.
+This library implements the http://trello.com/api Trello API.
 
-L<Trello https://trello.com> is a Web based project management application.
+Trello https://trello.com is a Web based project management application.
 
 
 =head1 AUTHOR
